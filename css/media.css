@@ -1,0 +1,455 @@
+@media screen and (min-width:1200px) and (max-width:1399px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .menu__inner {
+        padding: 60px 80px;
+    }
+
+    .main__item {
+        text-align: center;
+        padding: 0;
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .all__items {
+        display: flex;
+        word-wrap: break-word;
+    }
+
+    .business {
+        word-wrap: break-word;
+    }
+
+    .our__story__btn {
+        padding: 20px 70px;
+    }
+
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .under__header {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        word-wrap: break-word;
+        margin: 0;
+        padding: 0;
+    }
+
+    .services__inner {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+    }
+
+    .main__item {
+        text-align: center;
+        padding: 0;
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .all__items {
+        display: flex;
+        align-items: flex-start;
+        word-wrap: break-word;
+    }
+
+    .under__service {
+        position: relative;
+    }
+
+    .business {
+        word-wrap: break-word;
+        padding: 25px;
+    }
+
+    .our__story__btn {
+        padding: 20px 70px;
+    }
+
+    .cards {
+        padding: 0 20px 60px 20px;
+    }
+}
+
+@media screen and (max-width:992px) and (min-width:768px) {
+
+    .header,
+    .services,
+    .under__service,
+    .pricing,
+    .footer {
+        margin: 0 auto;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .menu {
+        text-align: center;
+        padding: 0;
+    }
+
+    .menu__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding-bottom: 80px;
+    }
+
+    .nav {
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+    .nav li {
+        padding-bottom: 10px;
+    }
+
+    .under__header {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        word-wrap: break-word;
+        padding: 0;
+    }
+
+    .services__inner {
+        position: relative;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+    }
+
+    .main__item {
+        word-wrap: break-word;
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .all__items {
+        display: flex;
+        word-wrap: break-word;
+    }
+
+    .main__item {
+        text-align: center;
+        padding: 0;
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .all__items {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .business {
+        word-wrap: break-word;
+        padding: 25px;
+        align-items: center;
+    }
+
+    .our__story__btn {
+        padding: 20px 70px;
+    }
+
+    .text__under__items {
+        padding: 0;
+        margin: 0;
+        padding-right: 10px;
+    }
+
+    .pricing {
+        height: 100%;
+    }
+
+    .pricing__inner {
+        text-align: center;
+        padding: 40px 0 0 0;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .item__card {
+        margin-top: 40px;
+    }
+
+    .footer__inner {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:992px) and (min-width:576px) {
+
+    .header,
+    .services,
+    .under__service,
+    .pricing,
+    .footer {
+        margin: 0 auto;
+    }
+
+    .container {
+        max-width: 100%;
+        margin: 0
+    }
+
+    .menu {
+        text-align: center;
+        padding: 0;
+    }
+
+    .menu__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding-bottom: 80px;
+    }
+
+    .nav {
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: nowrap
+    }
+
+    .nav li {
+        padding-bottom: 10px;
+    }
+
+    .under__header {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        word-wrap: break-word;
+        padding: 0;
+    }
+
+    .sell__car {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .under__header__text {
+        font-size: 20px;
+        line-height: 40px;
+        padding-top: 15px;
+    }
+
+    .services__inner {
+        position: relative;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+    }
+
+    .main__item {
+        text-align: center;
+        padding: 0;
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .all__items {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .business {
+        display: flex;
+        flex-direction: column;
+        word-wrap: break-word;
+        padding: 25px;
+        align-items: center;
+    }
+
+    .text__under__items {
+        text-align: center;
+    }
+
+    .our__story__btn {
+        padding: 20px 70px;
+    }
+
+    .text__under__items {
+        padding: 0;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .pricing {
+        height: 100%;
+    }
+
+    .pricing__inner {
+        text-align: center;
+        padding: 40px 0 0 0;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .item__card {
+        margin-top: 40px;
+    }
+
+    .text__footer {
+        text-transform: capitalize;
+        font-size: 20px;
+        font-family: "PTSerif";
+        color: rgb(255, 255, 255);
+        line-height: 30px;
+    }
+
+    .footer__inner {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:576px) and (min-width:320px) {
+
+    .header,
+    .services,
+    .under__service,
+    .pricing,
+    .footer {
+        margin: 0 auto;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .menu__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .logo {
+        font-size: 70px;
+        line-height: 0.9;
+        text-align: center;
+    }
+
+    .nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 20px;
+    }
+
+    .nav li a {
+        line-height: 40px;
+    }
+
+    .under__header {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .sell__car {
+        font-size: 50px;
+        line-height: 80px;
+        text-align: center;
+
+    }
+
+    .under__header__text {
+        display: none;
+    }
+
+    .services__inner {
+        height: 100%;
+    }
+
+    .main__item {
+        text-align: center;
+        padding: 0;
+        padding-top: 50px;
+        padding: 30px;
+    }
+
+    .all__items {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .text__under__items {
+        display: none;
+    }
+
+    .pricing {
+        height: 100%;
+    }
+
+    .business {
+        display: flex;
+        justify-content: center;
+    }
+
+    .our__story__btn {
+        padding: 20px 70px;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 20px;
+    }
+
+    .item__card {
+        margin-bottom: 30px;
+    }
+
+    .footer__inner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text__footer {
+        display: none;
+    }
+}
